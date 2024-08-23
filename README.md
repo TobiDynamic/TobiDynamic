@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 A few of my Projects:</h2>
 
-  - [Insight Analysis and Predictive Modeling of Road Accident Casualties](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Insight Analysis and Predictive Modeling of Road Accident Casualties] (https://github.com/TobiDynamic/PredictiveModellingforTravelCasualties
   -  Hello World
     
 <h2>✨ Certifications</h2>
