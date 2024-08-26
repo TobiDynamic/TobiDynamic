@@ -3,7 +3,7 @@
 <h2>👨‍💻 A few of my Projects:</h2>
 
   - Insight Analysis and Predictive Modeling of Road Accident Casualties (https://github.com/TobiDynamic/PredictiveModellingforTravelCasualties)
-  -  Digital Marketing stretegy for WeAreParadoxx Eco-Campaign (
+  -  Digital Marketing stretegy for WeAreParadoxx Eco-Campaign (https://github.com/TobiDynamic/DigitalMarketingStrategyReportforWeAreParadoxx-)
     
 <h2>✨ Certifications</h2>
 - [Scrum Master Certified] (https://ude.my/UC-4830bba7-93f2-4587-8bda-11a24e43a094/)
