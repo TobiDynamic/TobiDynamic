@@ -7,7 +7,9 @@
   -  PowerBI Analysis for Airline Customer Feedback (https://github.com/TobiDynamic/PowerBIforAirlineCustomerFeedback/tree/main)
     
 <h2>✨ Certifications</h2>
+
 - [Scrum Master Certified] (https://ude.my/UC-4830bba7-93f2-4587-8bda-11a24e43a094/)
+  
 - [Prepare Data for Exploration] (https://coursera.org/share/0daeaf0d75df81397c3ea65d1d292728)
 - [Ask Question to make data-diven decision] (https://coursera.org/share/dc4dcfb8ee1883734eeb2777926d3271) 
 
