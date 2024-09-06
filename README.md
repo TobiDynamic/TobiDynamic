@@ -15,7 +15,7 @@
 - [Ask Question to make data-diven decision] (https://coursera.org/share/dc4dcfb8ee1883734eeb2777926d3271) 
 
 <h2>📺 Popular YouTube Videos</h2>
-- [Tutorial:Insight Analysis and Predictive Modeling of Road Accident Casualties] (https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Tutorial:Insight Analysis and Predictive Modeling of Road Accident Casualties] 
 
 <h2> 🤳 Connect with me:</h2>
 
