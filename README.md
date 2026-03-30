@@ -1,11 +1,11 @@
-<h1>Hi, I'm Adeyemi! <br/><a href="https://github.com/TobiDynamic">Data Enthusiast</a>,">Marketing Research Expert</a>
+<h1>Hi, I'm Adeyemi! <br/><a href="https://github.com/Adeyemi">Data Enthusiast</a>,">Marketing Research Expert</a>
 
 <h2>👨‍💻 A few of my Projects:</h2>
 
-  - Business Analysis Project (Unilever) Canteen Ordering Management System (https://github.com/TobiDynamic/BusinessAnalysisForCanteenSystemManagement)
-  - Insight Analysis and Predictive Modeling of Road Accident Casualties (https://github.com/TobiDynamic/PredictiveModellingforTravelCasualties)
-  -  Digital Marketing stretegy for WeAreParadoxx Eco-Campaign (https://github.com/TobiDynamic/DigitalMarketingStrategyReportforWeAreParadoxx-)
-  -  PowerBI Analysis for Airline Customer Feedback (https://github.com/TobiDynamic/PowerBIforAirlineCustomerFeedback/tree/main)
+  - Business Analysis Project (Unilever) Canteen Ordering Management System (https://github.com/Adeyemi/BusinessAnalysisForCanteenSystemManagement)
+  - Insight Analysis and Predictive Modeling of Road Accident Casualties (https://github.com/Adeyemi/PredictiveModellingforTravelCasualties)
+  -  Digital Marketing stretegy for WeAreParadoxx Eco-Campaign (https://github.com/Adeyemi/DigitalMarketingStrategyReportforWeAreParadoxx-)
+  -  PowerBI Analysis for Airline Customer Feedback (https://github.com/Adeyemi/PowerBIforAirlineCustomerFeedback/tree/main)
     
 <h2>✨ Certifications</h2>
 
