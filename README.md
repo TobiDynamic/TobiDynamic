@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tobi! <br/><a href="https://github.com/TobiDynamic">Business Data Analyst</a>, <a href="[https://www.linkedin.com/in/adekanmi-oluwatobiloba/]">Marketing Research Expert</a>
+<h1>Hi, I'm Adeyemi! <br/><a href="https://github.com/TobiDynamic">Data Enthusiast</a>,">Marketing Research Expert</a>
 
 <h2>👨‍💻 A few of my Projects:</h2>
 
