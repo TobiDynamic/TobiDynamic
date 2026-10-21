@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adeyemi! <br/><a href="https://github.com/Adeyemi">Data Enthusiast</a>,">Marketing Research Expert</a>
+<h1>Hi, I'm Tobi Adekanmi! <br/><a href="https://github.com/TobiAdekanmi">Data Enthusiast</a>,">Marketing Research Expert</a>
 
 <h2>👨‍💻 A few of my Projects:</h2>
 
